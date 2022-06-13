@@ -1,6 +1,6 @@
 FROM   python:latest
 
-ADD    /simulator /simulator
+ADD    /MQTT_SIMULATION /MQTT_SIMULATION
 
 #RUN    apt install python3-pip
 
