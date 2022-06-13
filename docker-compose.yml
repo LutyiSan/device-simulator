@@ -4,7 +4,7 @@ services:
 
   simulator:
      build: ./
-     command: python3 /simulator/main.py.py
+     command: python3 /simulator/main.py
      #ports:
       #-  80:70
 
