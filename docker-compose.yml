@@ -4,7 +4,7 @@ services:
 
   simulator:
      build: ./
-     command: python3 /MQTT_SIMULATOR/main.py.py
+     command: python3 /simulator/main.py.py
      #ports:
       #-  80:70
 
