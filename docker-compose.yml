@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+
+  simulator:
+     build: ./
+     command: python3 /MQTT_SIMULATOR/main.py.py
+     #ports:
+      #-  80:70
+
